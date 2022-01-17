@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "company": "jdf",
+    "logo": "./images/jdf.svg",
+    "new": true,
+    "featured": true,
+    "contract": "Full Time",
+    "location": "USA Only",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": []
+  },
+  {
+    "id": 2,
+    "company": "syndex",
+    "logo": "./images/syndex.svg",
+    "new": true,
+    "featured": true,
+    "contract": "Part Time",
+    "location": "Remote",
+    "languages": ["Python"],
+    "tools": ["React"]
+  },
+  {
+    "id": 3,
+    "company": "roar",
+    "logo": "./images/roar.svg",
+    "new": true,
+    "featured": false,
+    "contract": "Part Time",
+    "location": "USA Only",
+    "languages": ["JavaScript"],
+    "tools": ["React", "Sass"]
+  },{
+    "id": 4,
+    "company": "faceit",
+    "logo": "./images/faceit.svg",
+    "new": true,
+    "featured": false,
+    "contract": "Part Time",
+    "location": "USA Only",
+    "languages": ["JavaScript"],
+    "tools": ["React", "Sass"]
+  }
+]
